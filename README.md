@@ -1,0 +1,1 @@
+# app_redirect_close_extension
